@@ -1,2 +1,1 @@
-# learn-next-js
- Learning Next JS.
+Learning Next.js by building a basic blog site.
